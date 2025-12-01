@@ -10,3 +10,7 @@ turkey_catalog_clean.geojson
 turkey_catalog_1990_2025.csv
 
 These files are generated automatically, so they do not need to be stored in the repository.
+
+Download AFAD catalogue from https://deprem.afad.gov.tr
+
+Download Turkey boundaries (GADM level 1) from https://gadm.org
